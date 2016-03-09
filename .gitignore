@@ -1,5 +1,6 @@
 # Java noise
 *.class
+classes/*
 
 # SVN directories
 .svn
